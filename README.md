@@ -10,6 +10,8 @@ Actividad Semana 2: Herramientas de analítica y *reporting*
 
 🔗 **Aplicación en línea:** https://mlnp.shinyapps.io/compras-puno/
 
+🔗 **Versión en Power BI del mismo análisis:** https://github.com/mlnp-dev/compras-puno-powerbi · [reporte en línea](https://app.powerbi.com/view?r=eyJrIjoiMmJlMGJlMjQtZmU5My00YzU3LWEwZGYtMjdlNGJiZDMzNDMwIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
+
 ![Resumen](capturas/01_resumen.png)
 
 ## Contenido de la aplicación
