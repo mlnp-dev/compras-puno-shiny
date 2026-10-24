@@ -10,6 +10,8 @@ Actividad Semana 2: Herramientas de analítica y *reporting*
 
 🔗 **Aplicación en línea:** https://mlnp.shinyapps.io/compras-puno/
 
+📄 **Informe comparativo Shiny frente a Power BI:** [PDF](https://github.com/mlnp-dev/compras-puno-powerbi/blob/main/informe/Semana%202%20-%20Informe%20Mary%20Luz%20Nina%20Palacios.pdf)
+
 🔗 **Versión en Power BI del mismo análisis:** https://github.com/mlnp-dev/compras-puno-powerbi · [reporte en línea](https://app.powerbi.com/view?r=eyJrIjoiMmJlMGJlMjQtZmU5My00YzU3LWEwZGYtMjdlNGJiZDMzNDMwIiwidCI6ImM0YTY2YzM0LTJiYjctNDUxZi04YmUxLWIyYzI2YTQzMDE1OCIsImMiOjR9)
 
 ![Resumen](capturas/01_resumen.png)
